@@ -2,7 +2,6 @@ package dao;
 
 import entities.Author;
 import util.DBConnector;
-
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;

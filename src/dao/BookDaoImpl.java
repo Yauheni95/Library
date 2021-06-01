@@ -4,7 +4,6 @@ import entities.Author;
 import entities.Book;
 import entities.Genre;
 import util.DBConnector;
-
 import java.sql.Date;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

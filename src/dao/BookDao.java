@@ -1,7 +1,6 @@
 package dao;
 
 import entities.Book;
-
 import java.util.List;
 
 public interface BookDao {

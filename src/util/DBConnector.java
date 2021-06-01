@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+
 public class DBConnector {
     public static final String USERNAME="root";
     public static final String PASSWORD="evgeniysleznik1995";

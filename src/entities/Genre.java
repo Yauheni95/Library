@@ -9,6 +9,7 @@ public enum Genre {
     Contemporary ("Contemporary"),
     Thriller ("Thriller");
 
+
     private String name;
 
     Genre(String name) {
